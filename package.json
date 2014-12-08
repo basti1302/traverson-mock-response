@@ -1,0 +1,12 @@
+{
+  "name": "traverson-mock-response",
+  "version": "1.0.0",
+  "description": "Mock response used by various traverson projects for testing.",
+  "repository": "https://github.com/basti1302/traverson-mock-response.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bastian Krol <bastian.krol@web.de>",
+  "license": "MIT"
+}

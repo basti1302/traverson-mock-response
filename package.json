@@ -1,6 +1,6 @@
 {
   "name": "traverson-mock-response",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Mock response used by various traverson projects for testing.",
   "repository": "https://github.com/basti1302/traverson-mock-response.git",
   "main": "index.js",

@@ -5,7 +5,7 @@
   "repository": "https://github.com/traverson/traverson-mock-response.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no test specified\""
   },
   "author": "Bastian Krol <bastian.krol@web.de>",
   "license": "MIT"

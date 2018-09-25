@@ -22,4 +22,5 @@ after_script: '[[ $(node -v) =~ ^v4.*$ ]] || [[ $(node -v) =~ ^v5.*$ ]] || [[ $(
 
 env:
   global:
-    secure: CnCIk/Ea6tUygXHeNT+h4j64o7QB4HX39pCEKKj9MJrtaiIV6DVfmdhnmJJAW2IPUJlUV1ZAi02U35XA7rgs/CIsVRQ7npfULCZWXMpyW/TPhqGgF7vVP+6hEcakGzvgKnV8LNSUwaMfrsZLYpiCPYASNBg+v2BcWnx5KHfMRNQ=
+  - FORCE_COLOR=1
+  - NPM_CONFIG_COLOR=always
